@@ -60,7 +60,7 @@ This project simulates missile trajectory and impact dynamics using six degrees 
 ## File Structure
 
 ```
-missile-simulation/
+Missile-Simulation/
 ├── Unity/
 │   ├── Assets/
 │   │   ├── Scripts/

@@ -8,8 +8,8 @@ This project simulates missile trajectory and impact dynamics using six degrees 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/missile-simulation.git
-    cd missile-simulation
+    git clone https://github.com/Jeyadev2003/Missile-Simulation.git
+    cd Missile-Simulation
     ```
 
 2. **Open the project in Unity:**

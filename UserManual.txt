@@ -1,0 +1,18 @@
+User manual
+Installation of the package
+The package is composed of several M-code files that are installed in the Matlab environment using the 'package_setup' command. It provides functions for constructing complex 3D scenes by placing consecutive objects that act, in effect, like building blocks within the layout.
+
+Download the flypath3d package and unzip it to the destination directory. Next execute configuration script:
+
+package_setup
+
+That's all! Your copy of flypath3d package is ready to work.
+
+Program description and data set organization
+Objects can be created using the 'new_object' function; the package allows kinematic data, 3D model geometry definitions, and display parameters to be combined into a single easy-to-use data set:
+
+new_object(filename,matrix,varargin);
+
+The function parameters are: output set file name ('filename'), array of kinematic data ('matrix') and some optional arguments ('varargin'). The array of kinematic data K contains three Cartesian coordinate vectors x, y, z and three angle vectors θ, ψ, φ completely describing the 3D object position in time:
+
+[ ... additional content from the user manual ... ]

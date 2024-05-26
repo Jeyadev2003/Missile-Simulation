@@ -1,8 +1,4 @@
-Sure, here is a more concise version of the README file:
-
----
-
-# Missile Trajectory and Impact Dynamics Simulation
+# Missile Simulation
 
 This project simulates missile trajectory and impact dynamics using six degrees of freedom (6DOF) equations of motion integrated with virtual reality (VR) technology. It aims to provide an accurate and immersive training environment for understanding missile behavior and refining skills.
 
@@ -81,11 +77,3 @@ missile-simulation/
 ├── README.md
 └── ...
 ```
-
-## Acknowledgments
-
-We thank the Department of Computer Technology at Anna University, MIT Campus, Chennai, for their support and facilities. Special thanks to Dr. B. Thanasekhar and Dr. T. Sudhakar for their guidance throughout this project.
-
----
-
-Feel free to customize the content as per your project's specifics and repository details. Let me know if you need any further modifications!
